@@ -2,3 +2,5 @@ Start GitHub
 - Saya ingin membuat konten secara konsisten 
 - Membuat platform untuk pengelolaan projek
 - Membuat forum diskusi
+- Membuat timeline pengerjaan
+- Kolaborasi dengan lebih banyak expert
